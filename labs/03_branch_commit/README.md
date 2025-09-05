@@ -4,7 +4,7 @@
 
 ミッション:
 
-feature/add-trivia ブランチを作る
+feature/$YOUR-NAME ブランチを作る
 
 trivia.txt に自分の好きな雑学を1行追加
 
